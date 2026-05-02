@@ -1,1 +1,0 @@
-# charging-limit-control-in-ubuntu-24.04-on-asus
